@@ -1,2 +1,4 @@
-# advpycode
-Repo for adding new knowledge about python
+# adding knowledge of python
+Learning new concept about python
+- learning OOPs in more dept.
+- Learning is fun.
